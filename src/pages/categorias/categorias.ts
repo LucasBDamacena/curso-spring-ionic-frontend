@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { CategoriaService } from '../../services/domain/categoria.service';
-import { CategoriaDTO } from '../../models/CategoriaDTO';
+import { CategoriaDTO } from '../../models/categoria.dto';
 
 /**
  * Generated class for the CategoriasPage page.
